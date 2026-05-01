@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09e6b12e-41cb-417a-ab9f-84a532911a3e/deploy-status)](https://app.netlify.com/projects/umairbaigin/deploys)
+
+
 # Digital Rain Frontend Template
 
 A dark, cinematic landing page with a canvas-based amber digital rain animation. Designed for AI/deep-tech companies, featuring falling mathematical symbols that splash into a simulated water surface with ripple physics.
